@@ -1,0 +1,173 @@
+﻿
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+    
+<meta charset="UTF-8">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+   
+<title>C&Oacute;MO CAMBIA LA PRESENCIA DE ROBOTS EN LA SOCIEDAD</title>
+ <style>
+
+
+
+
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+padding: 20px;
+background-color: #333333;
+color: #fff;
+}
+
+h1 {
+text-align: center;
+font-size: 28px;}
+h2 {font-size: 28px;}
+
+p {
+font-size: 20px;
+}
+
+</style>
+</head>
+<body>
+<marquee>
+<img src="281ycue.GIF" width="350px" height="250px"/>
+<img src="lio.GIF"width="350px" height="250px"/>
+<img src="DanceB.GIF"width="350px" height="250px"/>
+<img src="mn.GIF"width="350px" height="250px"/>
+<img src="jik.GIF"width="350px" height="250px"/>
+<img src="gt.GIF"width="350px" height="250px"/>
+</marquee>
+
+ <h1 style="COLOR:#CC9999;"><b>&iquest;C&Oacute;MO CAMBIA LA PRESENCIA DE ROBOTS EN LA SOCIEDAD&#63;</b></h1> 
+<img src="as.jpeg" width="400px" height="250px"/>  <audio src="omomopunk.mp3" controls></audio>
+
+<p style="text-align:JUSTIFY"> Reconocen objetos, cartograf&iacute;an nuevos entornos, realizan operaciones de recogida y colocaci&oacute;n, aprenden a mejorar el control, imitan movimientos humanos sencillos, adquieren nuevos conocimientos e incluso pueden coordinarse entre s&iacute;. Por ejemplo, en el campeonato anual de f&uacute;tbol para robots llamado RoboCup se observa c&oacute;mo se comportan los &uacute;ltimos robots y algoritmos dise&ntilde;ados para practicar ese deporte. </p>
+<p style="text-align:JUSTIFY">Estas m&aacute;quinas cada vez son m&aacute;s inteligentes y capaces de realizar m&aacute;s actividades con una precisi&oacute;n prodigiosa; se pueden programar y analizar su comportamiento para mejorar su rendimiento. Y es que los robots est&aacute;n diseñados para ayudar a los seres humanos.</p>
+
+<html>
+<head>
+</head>
+
+<body>
+
+<h1 style="COLOR:#6699CC;"><b>&iquest;QU&Eacute; SON LOS ROBOTS&#63;</b></h1>
+
+<p style="text-align:JUSTIFY">Un <b>robot</b> es una entidad virtual o mec&aacute;nica artificial. En la pr&aacute;ctica, esto es por lo general un sistema electromec&aacute;nico que, por su apariencia o sus movimientos, ofrece la sensaci&oacute;n de tener un prop&oacute;sito propio. La independencia en sus acciones hace que sus acciones sean la raz&oacute;n de un estudio razonable y profundo en el &aacute;rea de la ciencia y tecnolog&iacute;a. La palabra puede referirse tanto a mecanismos f&iacute;sicos como a sistemas virtuales de software, aunque suele aludirse a los segundos con el t&eacute;rmino de bots.</p>
+<p style="text-align:JUSTIFY">Los primeros pasos dados durante revoluci&oacute;n Industrial, nada tienen que ver con tremendo impulso producido por el desarrollo de la computaci&oacute;n y las telecomunicaciones.</p>
+<p style="text-align:JUSTIFY">Del <b><u>ingles</u></b> <b><em>robot</em></b>, que a su vez deriva del checo robota <b>prestación personal</b>, un robot es una m&aacutequina programable que puede manipular objetos y realizar operaciones que antes s&oacutelo pod&iacutean realizar los seres humanos.El robot puede ser tanto un mecanismo electromec&aacutenico f&iacutesico como un sistema virtual de <b><u>software</b></u>. Ambos coinciden en brindar la sensaci&oacuten de contar con capacidad de pensamiento o resoluci&oacuten, aunque en realidad se limitan a ejecutar &oacuterdenes dictadas por las personas.</p>
+
+
+<p style="text-align:JUSTIFY">Estas m&aacute;quinas cada vez son m&aacute;s inteligentes y capaces de realizar m&aacute;s actividades con una precisi&oacute;n prodigiosa; se pueden programar y analizar su comportamiento para mejorar su rendimiento. Y es que los robots están dise&ntilde;ados para ayudar a los seres humanos.</p>
+<H1 style="color:#ffff99;"> Enseguida encontraras un PDF con informacion muy relevante sobre robots</h1>
+
+<embed src="nosotrosrobots.pdf"
+type="application/pdf"
+width="500" height="600">
+
+<h1 style="COLOR:#6699CC;">IMPACTO DE LOS ROBOTS EN LA SOCIEDAD</h1>
+
+<p style="text-align:JUSTIFY"><b><u>La Inteligencia Artificial (IA)</u></b> ha provocado que nuestra fuerza laboral evolucione. Lo cierto es que las capacidades de los robots y la IA est&aacute;n reemplazando a muchos trabajos realizados por humanos.
+Por su parte, un robot es la entidad aut&oacute;mata compuesta por mec&aacute;nica artificial y un sistema electromec&aacute;nico. Un robot se diferencia de un bot en que est&eacute; compuesto de mecanismos f&iacute;sicos, mientras que el bot se encuentra alojado en un software dentro de un sistema virtual ubicado en la Nube (Cloud).</p>
+<p style="text-align:JUSTIFY"> Los robots automatizan tareas mon&iacute;tonas, repetitivas y potencialmente peligrosas. As&iacute;, la tecnolog&iacute;a permite que las personas dejen tareas de poco valor para las m&aacute;quinas, mientras los seres humanos pueden realizar tareas m&aacute;s satisfactorias y complejas.</p>
+<p style="text-align:JUSTIFY">Los robots ayudan a disminuir accidentes de trabajo, jubilaciones por invalidez (lesiones incapacitantes), riesgos ocupacionales, errores humanos y mucho más - y esos son solo los impactos directos, al medir las ganancias indirectas (satisfacci&oacute;n en el trabajo, menor sobrecarga), existen muchos otros.</p>
+
+<h1 style="COLOR:#6699CC;">LOS ROBOTS Y EL SER HUMANO</h1>
+<p style="text-align:JUSTIFY">Las personas, en general, reaccionan de manera positiva ante los robots ya que consideran que pueden brindar ayuda en diversas tareas. Los m&aacutes pesimistas, en cambio, sostienen que los robots reemplazan a los seres humanos en el mundo laboral y hasta temen una posible rebeli&oacuten de las m&aacutequinas contra el <b>hombre</b>.
+Estos dilemas acerca del papel que pueden llegar a jugar en nuestras vidas los robots han sido analizados y planteados con profundidad tanto en la literatura como en el cine. En el primer &aacutembito destacar&iacuteamos la obra <b><u>“Saga de la Fundaci&oacuten”</b></u>, escrita por el ruso <b>Isaac Asimov</b>. En el s&eacuteptimo arte las pel&iacuteculas m&aacutes importantes sobre esta materia son <b><u>“Blade Runner”</b></u>, dirigida en 1982 por <b>Ridley Scott</b>, y <b><u>“Terminator”</b></u>, que se estren&oacute en 1984 de la mano de <b>James Cameron</b>.</p>
+
+
+<h1 style="color:#6699cc;">Ejemplos adicionales</h1>
+
+<p style="text-align:center">
+	
+<p style="text-align:JUSTIFY">&rArr;<b>Robots industriales</b>: estos tipos de robots tienen un claro enfoque en la cadena de producci&oacute;n y realizan actividades rutinarias y repetitivas. Los robots industriales son los robots que se dise&ntilde;an para ser utilizados en los diferentes sectores industriales con el objetivo de automatizar un proceso, ya sea dentro de un ambiente colaborativo con humanos o dentro de un vallado de seguridad.El t&eacute;rmino robot industrial hace referencia a un manipulador mec&aacute;nico multifuncional que se puede programar. Se caracterizan por tener desde 3 hasta 7 ejes, y en funci&oacute;n del modelo y del tipo aplicaci&oacute;n a la que va a ser destinado, var&iacute;a totalmente su constituci&oacute;n.</p>
+	
+<center> <video src="industrial.mp4" controls width="500"></video> </center>
+<p style="text-align:JUSTIFY">&rArr;<b>Robots dom&eacute;sticos</b>: son aquellos que ayudan con las tareas de limpieza y vigilancia de la casa. En este grupo se pueden mencionar los robots aspiradores de limpieza, los robots cortac&eacute;sped, los de cocina que preparan la receta de principio a fin o las c&aacute;maras de seguridad conectadas, por lo que su función principal es mejorar la calidad de vida dentro de este. </p>
+<center> <video src="casa.mp4" controls width="500"></video> </center>
+	
+<p style="text-align:JUSTIFY">&rArr;<b>Robots educativos</b>: estos robots son aquellas m&aacute;quinas destinadas al desarrollo cognitivo o al aprendizaje de una materia. Por ejemplo, los kits de rob&oacute;tica para ni&ntilde;os.</p>
+<center> <video src="botiedu.mp4" controls width="500"></video> </center>
+	
+<p style="text-align:JUSTIFY">&rArr;<b>Robots militares</b>: se encargan de actuar como apoyo de los ej&eacute;rcitos en ciertas operaciones, como transportar material o ayudar a detectar la presencia de explosivos.Son robots aut&oacute;nomos o robots m&oacute;viles de control remoto dise&ntilde;ados para aplicaciones militares, desde el transporte hasta la b&uacute;squeda y rescate y el ataque</p>
+<center> <video src="militar.mp4" controls width="500"></video> </center>
+	
+<p style="text-align:JUSTIFY">&rArr;<b>Robots m&eacute;dicos</b>:Los robots m&eacute;dicos son m&aacute;s que simples m&aacute;quinas. Representan la intersecci&oacute;n de tecnolog&iacute;a de vanguardia y experiencia m&eacute;dica, y se esfuerzan por mejorar los resultados de los pacientes y optimizar los procesos de atenci&oacute;n m&eacute;dica. En esencia, los robots m&eacute;dicos son sistemas automatizados dise&ntilde;ados y construidos espec&iacute;ficamente para realizar tareas cl&iacute;nicas. Estas tareas pueden variar desde asistencia quir&uacute;rgica hasta atenci&oacute;n al paciente e incluso tareas administrativas en un entorno hospitalario.
+<center> <video src="medicina.mp4" controls width="500"></video> </center>
+<h1 style="COLOR:#6699CC;">FUTUROS ESCENARIOS</h1>
+
+<p style="text-align:JUSTIFY">1.<b>Cambio en el mercado laboral</b>:Se prev&eacute; que la automatizaci&oacute;n y la rob&oacute;tica transformen significativamente el mercado laboral. Algunos trabajos podr&iacute;an ser reemplazados por robots, lo que podr&iacute;a llevar a la p&eacute;rdida de empleos en ciertos sectores. Sin embargo, tambi&eacute;n se crear&aacute;n nuevas oportunidades laborales en campos relacionados con la rob&oacute;tica, como el desarrollo, la programaci&oacute;n y el mantenimiento de robots.</p>
+
+<p style="text-align:JUSTIFY">2.<b>Asistencia en el cuidado de personas</b>:Con el envejecimiento de la poblaci&oacute;n en muchas partes del mundo, se espera que los robots desempe&ntilde;en un papel importante en el cuidado de personas mayores y discapacitadas. Los robots podr&iacute;an ayudar con tareas dom&eacute;sticas, proporcionar compa&ntilde;&iacute;a y monitorear la salud de las personas.</p>
+
+<p style="text-align:JUSTIFY">3.<b>Educaci&oacute;n y entretenimiento</b>:Los robots podr&iacute;an utilizarse cada vez m&aacute;s en entornos educativos, como asistentes de ense&ntilde;anza o tutores personalizados. Tambi&eacute;n podr&iacute;an tener un papel en la industria del entretenimiento, como en parques tem&aacute;ticos o producciones audiovisuales.</p>
+
+<p style="text-align:JUSTIFY">4.<b>Colaboraci&oacute;n humano-robot</b>:Se espera que los robots trabajen cada vez m&aacute;s en colaboraci&oacute;n con humanos en entornos como f&aacute;bricas, almacenes y hospitales. Esto requerir&aacute; el desarrollo de sistemas rob&oacute;ticos seguros y confiables, as&iacute; como la capacitaci&oacute;n de los trabajadores para interactuar de manera efectiva con los robots.</p>
+
+<p style="text-align:JUSTIFY">5.<b>&Eacute;tica y regulaci&oacute;n</b>:A medida que los robots se vuelvan m&aacute;s ubicuos en la sociedad, surgir&aacute;n importantes cuestiones  ticas y de regulaci&oacute;n. Esto incluye preocupaciones sobre la privacidad, la seguridad y la equidad en el acceso a la tecnolog&iacute;a rob&oacute;tica. Ser&aacute; crucial establecer marcos &eacute;ticos y legales s&oacute;lidos para guiar el desarrollo y el uso de robots en la sociedad.</p>
+
+<h1 style="text-align:JUSTIFY"><u>Ejemplo adicional</u></h1>
+
+<p style="COLOR:#FFFF99;"><b><em>Detroit Become Human</b></em></p>
+
+<p style="text-align:JUSTIFY"><em>>&iquest;Hasta dónde llegarías para ser libre&#63;</em></p>
+
+<p style="text-align:JUSTIFY">Ambientada en Detroit durante el año 2038 , la ciudad ha sido revitalizada por la invenci&oacuten e introducci&oacuten de los <em>androides</em> en la vida cotidiana. Pero cuando los androides empiezan a comportarse como si estuvieran vivos, los acontecimientos empiezan a salirse de control. Asume los roles de los tres personajes jugables fundamentales de la historia <b>( Kara , Connor y Markus )</b>, cada uno con perspectivas, motivaciones y habilidades &uacutenicas mientras se enfrentan a su verdadero yo y cuestionan sus valores. Estos tres <em>androides</em> están presentes a lo largo del juego mientras siguen un viaje emocional con decisiones que deben tomarse para lograr su <b><em>"causa"</b></em> final, que se puede definir de muchas maneras diferentes dependiendo de los valores del jugador. La trama del juego trata sobre una variedad de temas maduros que exploran el terreno moral y la decisi&oacuten de cada jugador afecta lo que suceder&aacute.</p>
+
+<p style="text-align:JUSTIFY"><b><u>Detroit: Become Human</b></u> se basa en la demostraci&oacuten de tecnolog&iacutea de PlayStation 3 de 2012 de Quantic Dream, <b>" KARA "</b>, que recibi&oacute fuertes reacciones y un premio en el LA Shorts Fest . <b><u>David Cage</b></u> quer&iacutea convertir la demostraci&oacuten en un juego completo, a pesar de que originalmente no lo había planeado, porque ten&iacutea curiosidad por saber qu&eacute pasar&iacutea despu&eacutes. <b>Se inspir&oacute en La singularidad está cerca de Ray Kurzweil</b> , que explica que el ritmo al que se desarrolla la inteligencia humana palidece en comparaci&oacuten con el de una m&aacutequina. Por tanto, Cage propone que las m&aacutequinas algún d&iacutea podr&aacuten tener emociones.</p>
+
+<p style="text-align:JUSTIFY">Los <em>androides</em> fueron dise&ntildeados teniendo en cuenta &oacuterganos artificiales, c&oacutemo se generar&iacutea su energ&iacutea y el movimiento del ojo humano. Las habilidades de un androide estaban determinadas por cada una de sus profesiones. Se consult&oacute a expertos en inteligencia artificial para discernir qu&eacute avances tecnol&oacutegicos eran los m&aacutes factibles.</p>
+
+<p style="text-align:JUSTIFY"><u>Detroit</u> fue elegida como escenario para revitalizar una ciudad que hab&iacutea sucumbido al declive econ&oacutemico tras una contribución hist&oacuterica a la industria estadounidense. Los desarrolladores viajaron a Detroit para realizar investigaciones de campo, tomar fotografías, visitar edificios abandonados y conocer gente.</p>
+
+<p style="text-align:JUSTIFY">En resumen, el futuro de los robots en la sociedad promete transformaciones significativas en una variedad de &aacute;reas, desde el mercado laboral hasta la atenci&oacute;n m&eacute;dica y la educaci&oacute;n
+acute;n. Si bien hay muchos beneficios potenciales, tambi&eacute;n es importante abordar los desaf&iacute;os y preocupaciones &eacute;ticas que surgen con la creciente presencia de robots en nuestras vidas.</p>
+
+<img src="mi.jpeg" width="250px" height="150px"/>
+<img src="ka.jpeg" width="250px" height="150px"/>
+<img src="jo.jpeg" width="250px" height="150px"/>
+<img src="de.jpeg" width="250px" height="150px"/>
+<h1>AQUI TE DEJO UNA PELI DE ROBOTS POR SI ERES AMANTE DE ELLOS COMO NOSOTROS</H1>
+<iframe width="800" height="500" src="https://telepick.es/yo-robot/?video_embed=5539" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<H1 style="COLOR:#FFCCFF;">TRABAJO POR : JOANA MILLAN SOSA, RACHELL SINAHI MENDEZ AGUILAR Y JESICA REYES LUCIANO</H1></font>
+
+</body>
+
+</html>
+<H1 style="text-align:LEFT" STYLE="COLOR:#6699CC;">Nos encantaria que nos dejaras tus commentarios</h1>
+<form>
+  <textarea rows="5" cols="50"></textarea><br><br>
+  <input type="submit" value="Enviar comentario">
+</form>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Documento con Borde en Toda la Página</title>
+<style>
+    html, body {
+        margin: 0;
+        padding: 2;
+        border: 5px solid white;
+    }
+</style>
+</head>
+<body>
+
+<h1 STYLE="COLOR:#FF3333;">GRACIAS POR VISITAR NUESTRA PAGINA</H1>
+
+</body>
+</html>
+
+
+
